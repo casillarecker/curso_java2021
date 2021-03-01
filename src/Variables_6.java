@@ -19,9 +19,9 @@ public class Variables_6 {
 	
 	//Reynaldo te quiero porque eres valiente y fuerte, no te rendiras jamas siempre seguiras a Dios
 		
-	int m = 50 , int m1;
+	int m = 50 ,  m1 = 50;
 	int t = m+m1;
-	System.out.println(n);
+	System.out.println(t);
 	
 	}
 
