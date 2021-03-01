@@ -17,6 +17,8 @@ public class Variables_6 {
 	int n =nu1+nu2;
 	System.out.println(n);
 	
+	//Reynaldo te quiero porque eres valiente y fuerte, no te rendiras jamas siempre seguiras a Dios
+	
 	}
 
 }
